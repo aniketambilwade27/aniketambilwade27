@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **aniketambilwade07@gmail.com**
 
-- ⚡ Here's my Leetcode **[click_me]{https://leetcode.com/u/NUTRINO004/}**
+- ⚡ Here's my Leetcode **{https://leetcode.com/u/NUTRINO004/}**
 
 <img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
 
