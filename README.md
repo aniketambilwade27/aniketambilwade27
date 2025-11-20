@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=algoalchemist04&label=Profile%20views&color=0e75b6&style=flat" alt="algoalchemist04" /> </p>
 
-- 🌱 I’m currently learning **Web Developement especially the MERN stack**
+- 🌱 I’m currently learning **Web Developement especially the React and Flask**
 
 - 📫 How to reach me **aniketambilwade07@gmail.com**
 
