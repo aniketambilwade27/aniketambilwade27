@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aniket Ambilwade</h1>
 <h3 align="center">Upgrading skills like it's TH15 </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=algoalchemist04&label=Profile%20views&color=0e75b6&style=flat" alt="algoalchemist04" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aniketambilwade27&label=Profile%20views&color=0e75b6&style=flat" alt="aniketambilwade27" /> </p>
 
 - 🌱 I’m currently learning **Web Developement especially the React and Flask**
 
