@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aniket Ambilwade</h1>
 <h3 align="center">Aspiring Software Engineer passionate about building scalable, real-world applications. </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aniketambilwade27&label=Profile%20views&color=0e75b6&style=flat" alt="aniketambilwade27" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aniketambilwade27&label=Profile%20views&color=0e75b6&style=flat"  /> </p>
 
 - 🌱 I’m currently learning **Web Developement especially the React and Flask**
 
